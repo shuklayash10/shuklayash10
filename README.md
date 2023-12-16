@@ -6,11 +6,12 @@ I'm Yash from India, and I am Currently pursuing Master's in Computer Science an
 
 I use different platforms for Blogging:
 
-System Design Blogs on Medium.com 
-Machine learning blogs on Substack.com  ( https://substack.com/@yashshukla10 )
-Full Stack Blogs on Dev.to 
-Cloud Blogs Hashnode.com
-Data Engineer, Cloud Engineer, Machine Learning Engineer 
+System Design Blogs on Medium.com                                     
+Machine learning blogs on Substack.com  ( https://substack.com/@yashshukla10 )                                 
+Full Stack Blogs on Dev.to                                              
+Cloud Blogs Hashnode.com  
+
+I like to work on these roles : Data Engineer, Cloud Engineer, Machine Learning Engineer.
 
 - 🌱 I’m currently learning Machine Learning  
 - 🤔 I’m looking for help with Front end 
