@@ -1,6 +1,6 @@
 ### Hi there 👋, Yash Shukla
 #### Software Engineer
-![Software Engineer](https://media.licdn.com/dms/image/C4D16AQEv0gWw5sP6ZQ/profile-displaybackgroundimage-shrink_350_1400/0/1654900854850?e=1707955200&v=beta&t=buvC92rKtpyJ-eGQ8K1pnc6Zblek-CIQ29MjMsc0y6w)
+![Software Engineer](https://github.com/shuklayash10/shuklayash10/blob/main/banner%20linkedin.jpeg) 
 
 I'm Yash from India, and I am Currently pursuing Master's in Computer Science and Engineering from Indian Institute of Technology, Hyderabad.Currently Learning Data Science and Full Stack.
 
