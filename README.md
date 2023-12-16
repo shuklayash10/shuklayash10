@@ -8,7 +8,7 @@ I'm Yash from India, and I am Currently pursuing Master's in Computer Science an
 
 https://substack.com/@yashshukla10
 
-Skills: Data Engineer, Cloud Engineer, Machine Learning Engineer 
+Data Engineer, Cloud Engineer, Machine Learning Engineer 
 
 - 🌱 I’m currently learning Machine Learning  
 - 🤔 I’m looking for help with Front end 
