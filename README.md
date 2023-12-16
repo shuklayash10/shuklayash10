@@ -5,9 +5,13 @@
 I'm Yash from India, and I am Currently pursuing Master's in Computer Science and Engineering from Indian Institute of Technology, Hyderabad.Currently Learning Data Science and Full Stack.
 
 I use different platforms for Blogging:
+
 System Design Blogs on Medium.com 
+
 Machine learning blogs on Substack.com  ( https://substack.com/@yashshukla10 )
+
 Full Stack Blogs on Dev.to 
+
 Cloud Blogs Hashnode.com
 
 Data Engineer, Cloud Engineer, Machine Learning Engineer 
