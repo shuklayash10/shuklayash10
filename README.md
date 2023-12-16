@@ -1,6 +1,7 @@
-### Hi there 👋, Yash Shukla
-#### Software Engineer
+
 ![Software Engineer](https://github.com/shuklayash10/shuklayash10/blob/main/banner%20linkedin.jpeg) 
+## Hi there 👋,I'm Yash Shukla
+### Software Engineer
 
 I'm Yash from India, and I am Currently pursuing Master's in Computer Science and Engineering from Indian Institute of Technology, Hyderabad.Currently Learning Data Science and Full Stack.
 
